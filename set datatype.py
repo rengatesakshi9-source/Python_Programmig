@@ -1,0 +1,19 @@
+#myset={1,2,"sandhya",5.66,"rahul","ayush","ramesh","ankit"}
+#print(myset)
+#print(type(myset))
+#print(myset[0])
+#myset.add(60)
+#print(myset)
+#myset.remove(3)
+#print(myset)
+#intersection
+#myset={10,20,30,40}
+#youset={"prashant","jha"}
+#newset=myset.union(youset)
+#print(newset)
+#intersection return common element
+#myset={10,20,30,40}
+#youset={10,50,60,30}
+#print(myset.difference(youset))
+myset={10,20,30,40}
+print(myset.clear())
