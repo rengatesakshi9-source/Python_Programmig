@@ -7,11 +7,11 @@
     #print("Biggest number is:",b)
 #else:
   #  print("Biggest number is:",c)
-count=0
-for i in  range(9):
-      if i%2 ==0:
-          print(i)
-      else:
-          print(i)
-          count +=1
-print("count =",count)
+# count=0
+# for i in  range(9):
+#       if i%2 ==0:
+#           print(i)
+#       else:
+#           print(i)
+#           count +=1
+# print("count =",count)
